@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72.89" height="103.601" viewBox="0 0 72.89 103.601">
+  <g id="candado" transform="translate(-76.005 0.25)">
+    <g id="Grupo_946" data-name="Grupo 946" transform="translate(127.257 89.939)">
+      <g id="Grupo_945" data-name="Grupo 945">
+        <circle id="Elipse_40" data-name="Elipse 40" cx="1.645" cy="1.645" r="1.645" fill="#103b57" stroke="#103b57" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Grupo_948" data-name="Grupo 948" transform="translate(133.838 83.358)">
+      <g id="Grupo_947" data-name="Grupo 947">
+        <circle id="Elipse_41" data-name="Elipse 41" cx="1.645" cy="1.645" r="1.645" fill="#103b57" stroke="#103b57" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Grupo_950" data-name="Grupo 950" transform="translate(103.676 58.46)">
+      <g id="Grupo_949" data-name="Grupo 949">
+        <path id="Trazado_6777" data-name="Trazado 6777" d="M226.78,305.862a8.774,8.774,0,1,0-11.158,0l-1.751,11.517a1.645,1.645,0,0,0,1.626,1.893H226.9a1.645,1.645,0,0,0,1.626-1.893Zm-2.656-2.133a1.645,1.645,0,0,0-.748,1.638l1.613,10.614h-7.578l1.613-10.614a1.645,1.645,0,0,0-.748-1.638,5.484,5.484,0,1,1,5.848,0Z" transform="translate(-212.427 -290.315)" fill="#103b57" stroke="#103b57" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Grupo_952" data-name="Grupo 952" transform="translate(76.255)">
+      <g id="Grupo_951" data-name="Grupo 951">
+        <path id="Trazado_6778" data-name="Trazado 6778" d="M140.419,42.776h-1.192a1.638,1.638,0,0,0,.1-.548V26.872a26.872,26.872,0,1,0-53.744,0v15.9h-1.1A8.235,8.235,0,0,0,76.255,51V94.875a8.235,8.235,0,0,0,8.226,8.226h55.938a8.235,8.235,0,0,0,8.226-8.226V51A8.235,8.235,0,0,0,140.419,42.776Zm-51.55-15.9a23.582,23.582,0,1,1,47.163,0V42.227a1.638,1.638,0,0,0,.1.548H97.643v-15.9a14.807,14.807,0,0,1,29.614,0V37.84a1.645,1.645,0,0,0,3.29,0V26.872a18.1,18.1,0,1,0-36.195,0v15.9H88.869Zm56.486,68a4.941,4.941,0,0,1-4.936,4.936H84.481a4.941,4.941,0,0,1-4.936-4.936V51a4.941,4.941,0,0,1,4.936-4.936h55.938A4.941,4.941,0,0,1,145.354,51Z" transform="translate(-76.255)" fill="#103b57" stroke="#103b57" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.095" height="29.832" viewBox="0 0 21.095 29.832">
+  <g id="candado" transform="translate(-76.005 0.25)">
+    <g id="Grupo_946" data-name="Grupo 946" transform="translate(90.765 25.587)">
+      <g id="Grupo_945" data-name="Grupo 945">
+        <circle id="Elipse_40" data-name="Elipse 40" cx="0.468" cy="0.468" r="0.468" fill="#0155d3" stroke="#0155d3" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Grupo_948" data-name="Grupo 948" transform="translate(92.637 23.715)">
+      <g id="Grupo_947" data-name="Grupo 947">
+        <circle id="Elipse_41" data-name="Elipse 41" cx="0.468" cy="0.468" r="0.468" fill="#0155d3" stroke="#0155d3" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Grupo_950" data-name="Grupo 950" transform="translate(84.056 16.632)">
+      <g id="Grupo_949" data-name="Grupo 949">
+        <path id="Trazado_6777" data-name="Trazado 6777" d="M216.511,294.738a2.5,2.5,0,1,0-3.174,0l-.5,3.277a.468.468,0,0,0,.463.538h3.245a.468.468,0,0,0,.463-.538Zm-.756-.607a.468.468,0,0,0-.213.466l.459,3.02h-2.156l.459-3.02a.468.468,0,0,0-.213-.466,1.56,1.56,0,1,1,1.664,0Z" transform="translate(-212.427 -290.315)" fill="#0155d3" stroke="#0155d3" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Grupo_952" data-name="Grupo 952" transform="translate(76.255)">
+      <g id="Grupo_951" data-name="Grupo 951">
+        <path id="Trazado_6778" data-name="Trazado 6778" d="M94.509,12.17H94.17a.466.466,0,0,0,.027-.156V7.645a7.645,7.645,0,1,0-15.29,0V12.17H78.6a2.343,2.343,0,0,0-2.34,2.34V26.991a2.343,2.343,0,0,0,2.34,2.34H94.509a2.343,2.343,0,0,0,2.34-2.34V14.51A2.343,2.343,0,0,0,94.509,12.17ZM79.844,7.645a6.709,6.709,0,1,1,13.418,0v4.369a.466.466,0,0,0,.027.156H82.34V7.645a4.213,4.213,0,1,1,8.425,0v3.12a.468.468,0,0,0,.936,0V7.645a5.149,5.149,0,1,0-10.3,0v4.525h-1.56Zm16.07,19.346a1.406,1.406,0,0,1-1.4,1.4H78.6a1.406,1.406,0,0,1-1.4-1.4V14.51a1.406,1.406,0,0,1,1.4-1.4H94.509a1.406,1.406,0,0,1,1.4,1.4Z" transform="translate(-76.255)" fill="#0155d3" stroke="#0155d3" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
